@@ -1,7 +1,7 @@
 ---
 layout: single
 title: AWS CSA - Associate Level 学习笔记 - Week 3 - Part I
-img:
+tags: [cloud, aws]
 ---
 
 ### Day 13
