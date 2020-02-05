@@ -1,7 +1,7 @@
 ---
 layout: archive
 permalink: /blogs/
-title: "Blog posts by tags"
+title: "Blogs"
 author_profile: true
 header:
     image: "img/blog2.jpg"
