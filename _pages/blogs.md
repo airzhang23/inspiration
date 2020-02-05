@@ -1,7 +1,7 @@
 ---
 layout: search
-permalink: /blogs/
-title: "Blogs posts by Tags"
+permalink: /search/
+title: "search blogs"
 author_profile: true
 header:
     image: "/img/blog2.jpg"
