@@ -4,10 +4,10 @@ permalink: /blogs/
 title: "Blogs"
 author_profile: true
 header:
-    image: "img/blog2.jpg"
+    image: "/img/blog2.jpg"
 ---
 
-<!-- {% include base_path %}
+{% include base_path %}
 {% include group-by-array collection=site.posts field="tags" %}
 
 {% for tag in group_names %}
@@ -16,4 +16,4 @@ header:
   {% for post in posts %}
     {% include archive-single.html %}
   {% endfor %}
-{% endfor %} -->
+{% endfor %}
