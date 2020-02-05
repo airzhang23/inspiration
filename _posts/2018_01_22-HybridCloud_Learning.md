@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: Hybrid Cloud Class 课堂笔记
 subtitle: Private Cloud AnalysisType
 ---

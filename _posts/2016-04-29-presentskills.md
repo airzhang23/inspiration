@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: 演讲稿的组织技巧
 subtitle: 写给常写PPT的人
 ---

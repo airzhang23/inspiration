@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: How to Learn Anything Fast - Nishant Kasibhatla
 ---
 

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: 前沿技术 - I
 img: data_s2.jpg
 ---

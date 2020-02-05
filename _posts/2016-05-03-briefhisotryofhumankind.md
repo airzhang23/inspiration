@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: 《人类简史：从动物到上帝》 —— 重新认识世界
 subtitle: 让我重新认识这个世界的一本书
 ---

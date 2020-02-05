@@ -1,5 +1,5 @@
 ---
-Layout: post
+layout: single
 title: Pipeline
 ---
 

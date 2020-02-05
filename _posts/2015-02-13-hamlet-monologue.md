@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: To be
 subtitle: ... or not to be?
 ---

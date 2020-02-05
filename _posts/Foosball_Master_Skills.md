@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: Foosball Skills - Lei Zhang
 subtitle: 桌上足球攻防传球技巧汇总
 ---

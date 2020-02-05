@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: 理解性能你需要知道的一些事情
 subtitle: A few things you need to know about performance
 ---

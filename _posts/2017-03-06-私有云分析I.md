@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: 私有云分析 - Chapter I
 subtitle: Private Cloud Analysis
 

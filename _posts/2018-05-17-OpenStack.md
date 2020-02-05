@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: Bulding Private Cloud using OpenStack - VMWare篇
 img: cloud.jpg
 ---

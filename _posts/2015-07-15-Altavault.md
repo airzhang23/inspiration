@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: 从Steelstore, 到今天的AltaVault
 subtitle: Steelstore to AltaVault
 ---

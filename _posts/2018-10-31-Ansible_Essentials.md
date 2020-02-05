@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: Ansible Essentials Workshop Learning
 img: ansible1.jpg
 ---

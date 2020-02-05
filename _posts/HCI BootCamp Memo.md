@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: HCI Bootcamp Memo - Aug 13-14 2018 
 ---
 

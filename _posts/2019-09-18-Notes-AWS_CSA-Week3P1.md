@@ -1,7 +1,7 @@
 ---
-layout: post
+layout: single
 title: AWS CSA - Associate Level 学习笔记 - Week 3 - Part I
-img: 
+img:
 ---
 
 ### Day 13
