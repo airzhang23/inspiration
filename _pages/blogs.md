@@ -1,5 +1,5 @@
 ---
-layout: splash
+layout: categories
 permalink: /blogs/
 title: "Blogs posts by Tags"
 author_profile: true
