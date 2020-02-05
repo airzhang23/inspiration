@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: Show Your Work! 10 Ways to Share your Creativity and Get Discovered
 tags: [share, idea, work smart]
 ---
