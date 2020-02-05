@@ -2,6 +2,7 @@
 layout: single
 title: Show Your Work! 10 Ways to Share your Creativity and Get Discovered
 tags: [share, idea, work smart]
+toc: true
 ---
 
 #showyourwork
@@ -80,7 +81,7 @@ Be an Ameteur - 做一个业余者
 
 
 
-分享的是你的 **Work**。 
+分享的是你的 **Work**。
 
 
 
