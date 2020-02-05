@@ -1,7 +1,10 @@
 ---
 layout: post
 title: AWS CSA - Associate Level 学习笔记 - Week 2 - Part I
-img: image-20190906095056777.png
+tags: [aws, cloud, iam]
+header:
+  image: /assets/img/image-20190906095056777.png
+excerpt: "AWS CSA - 学习笔记"
 ---
 
 ### Day 8
