@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: search
 permalink: /blogs/
 title: "Blogs posts by Tags"
 author_profile: true
