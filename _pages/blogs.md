@@ -1,5 +1,5 @@
 ---
-layout: categories
+layout: default
 permalink: /blogs/
 title: "Blogs posts by Tags"
 author_profile: true
