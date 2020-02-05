@@ -1,8 +1,8 @@
 ---
-layout: search
-permalink: /search/
-title: "search blogs"
+title: "Posts by Tag"
+permalink: /tags/
+layout: tags
 author_profile: true
 header:
-    image: "/img/blog2.jpg"
+  image: "/img/blog1.jpg"
 ---
