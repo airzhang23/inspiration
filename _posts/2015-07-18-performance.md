@@ -2,6 +2,7 @@
 layout: single
 title: 理解性能你需要知道的一些事情
 subtitle: A few things you need to know about performance
+tags: [storage, nfs]
 ---
 
 在目前的存储环境中，我们经常看到很多关于存储性能的评测报告，但是各个厂商为了突出自己的性能指标，可能会混淆很多概念。这就需要在看此类报告的时候对于其中的各种参数，首先要有一个正确的理解。另外，在系统运行过程中，出现的各类性能相关的问题，要如何看待，这都需要对性能有个基本的了解。

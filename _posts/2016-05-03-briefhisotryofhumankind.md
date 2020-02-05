@@ -2,6 +2,7 @@
 layout: single
 title: 《人类简史：从动物到上帝》 —— 重新认识世界
 subtitle: 让我重新认识这个世界的一本书
+tags: [books, human, science]
 ---
 
 
@@ -46,5 +47,3 @@ subtitle: 让我重新认识这个世界的一本书
 ![image](/img/human3.jpg)
 
 最后，贴上这张自己比较喜欢的手印的壁画。虽然目前还不知道它意味着什么，但是却给人一种积极向上的感觉。
-
-

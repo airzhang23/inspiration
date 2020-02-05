@@ -2,6 +2,7 @@
 layout: single
 title: Hybrid Cloud Class 课堂笔记
 subtitle: Private Cloud AnalysisType
+tags: [storage, cloud]
 ---
 
 
@@ -24,7 +25,7 @@ subtitle: Private Cloud AnalysisType
 
 - Cloud Sync
 
-  ##### Day 1 
+  ##### Day 1
 
   - DataFabric Overview
     - 公有云的Solution价格并不低，用户的开销比较大，数据跨Region移动，in和out 都要收费。这是很好的一个NPS的切入点。

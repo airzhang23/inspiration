@@ -2,6 +2,7 @@
 layout: single
 title: 我的销售学习笔记 - I
 subtitle: Learn the Selling skills
+tags: [selling skills]
 ---
 
 **S.P.I.N Selling** 学习笔记
@@ -72,4 +73,3 @@ Spin Selling主要阐述的是针对大订单。原因在于之前的很多销�
 2. 可以见到更重要的决策者
 3. 参与对方的活动
 4. 私下交流，打开心扉，参加我们的产品体验，样板间
-

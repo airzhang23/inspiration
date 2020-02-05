@@ -1,6 +1,7 @@
 ---
 layout: single
 title: Pipeline
+tags: [selling skills]
 ---
 
 
