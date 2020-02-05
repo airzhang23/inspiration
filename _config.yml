@@ -108,14 +108,14 @@ analytics:
 # Site Author
 author:
   name             : "Lei Zhang"
-  avatar           : # "/assets/images/bio-photo.jpg"
+  avatar           : "img/YourAvatar.png" # "/assets/images/bio-photo.jpg"
   bio              : "A guy who loves knowledges, ideas that can change your life"
   location         : "Beijing, China"
   email            : "air23zhang@qq.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: mailto:air23zhang@qq.com
+      # url: mailto:air23zhang@qq.com
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
