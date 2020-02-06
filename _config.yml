@@ -109,7 +109,7 @@ analytics:
 author:
   name             : "Lei Zhang"
   avatar           : "img/YourAvatar.png" # "/assets/images/bio-photo.jpg"
-  bio              : "A guy who loves knowledges, ideas that can change your life"
+  bio              : "A guy who loves ideas that can change life."
   location         : "Beijing, China"
   email            : "air23zhang@qq.com"
   links:
@@ -131,6 +131,9 @@ author:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/lei-zhang-6257aa1a/"
 
 # Site Footer
 footer:
