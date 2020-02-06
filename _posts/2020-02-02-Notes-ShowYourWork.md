@@ -4,7 +4,7 @@ title: Show Your Work! 10 Ways to Share your Creativity and Get Discovered
 tags: [share, idea, work smart]
 header:
   image: "/img/showwork.jpg"
-  teaser: "/img/showwork.jpg"
+  teaser: assets/img/showwork.jpg
 toc: true
 toc_label: "My Table of Contents"
 toc_icon: "cog"
