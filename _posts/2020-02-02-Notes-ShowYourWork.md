@@ -11,6 +11,8 @@ header:
 
 #showyourwork
 
+{% include video id="qWrcgHwSG8M" provider="youtube" %}
+
 ### I: Input 阶段
 
 一种新的操作。
