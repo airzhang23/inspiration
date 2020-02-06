@@ -2,10 +2,9 @@
 layout: single
 title: Foosball Skills - Lei Zhang
 subtitle: 桌上足球攻防传球技巧汇总
+tags: [sports, foosball]
+toc: true
 ---
-
-[TOC]
-
 
 
 ### 总则：外松内紧，下盘稳固，保持平衡，力量下沉，双肩放松，全神贯注，审时度势，及时调整
