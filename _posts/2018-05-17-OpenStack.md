@@ -1,7 +1,9 @@
 ---
 layout: single
 title: Bulding Private Cloud using OpenStack - VMWare篇
-img: cloud.jpg
+header:
+  image: /assets/img/cloud.jpg
+tags: [cloud]
 ---
 
 1. Why OpenStack from VMWare expert
@@ -50,4 +52,3 @@ img: cloud.jpg
    [Deploy, Using, Operation and Managing VIO](https://featurewalkthrough.vmware.com/t/vmware-integrated-openstack/)
 
    [NetApp OpenStack](https://www.netapp.com/us/solutions/it-automation/openstack-private-cloud.aspx)
-

@@ -2,7 +2,9 @@
 
 layout: single
 title: AWS CSA - Associate Level 学习笔记 - Week 1 - Part III
-img: image-20190830170450834.png
+header:
+  image: /assets/img/image-20190830170450834.png
+tags: [aws, cloud]
 ---
 
 #### Day 4 - Indentity and Access Control
@@ -21,7 +23,7 @@ img: image-20190830170450834.png
 
 - IAM Policies: 一个声明列表，一个JSON文档。只有当附加到某个对象上的时候才能发挥作用。例如附加到identity上，就成了identity policy，如果附加到资源上，就成为了资源的policy。
 
-  
+
 
   ![image-20190902171351594](../assets/img/image-20190902171351594.png)
 

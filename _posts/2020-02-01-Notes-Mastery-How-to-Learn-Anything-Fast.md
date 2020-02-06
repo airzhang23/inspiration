@@ -1,6 +1,7 @@
 ---
 layout: single
 title: How to Learn Anything Fast - Nishant Kasibhatla
+tags: [video, learning skill]
 ---
 
 > "For true mastery, you need to focus more on the ==OUTPUT==, rather than the INPUT. -Nishant Kasibhatla"
@@ -42,8 +43,3 @@ $1X INPUT +  2X OUTPUT (minimum)$
 #### Share:
 
 The best way to learn something is to teach it.
-
-
-
-
-

@@ -14,7 +14,7 @@ title: 我的销售学习笔记 - III
    - B2C List: 个人消费者，或者apartment owner
    - B2B List: Commercial
    - Hybrid (B2C & B2B) List:
-3. 然后把列表进行分类 
+3. 然后把列表进行分类
 4. 把分类进行优先顺序排列
 
 
@@ -85,4 +85,3 @@ Sales Process 的意义是一致性 ，Consistency。
 
 
 ### Part VIII: Demonstrating Your Product
-

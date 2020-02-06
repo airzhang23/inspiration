@@ -2,6 +2,7 @@
 layout: single
 title: Ansible Essentials Workshop Learning
 img: ansible1.jpg
+tags: [configuration management, ansible]
 ---
 
 ### Ansible Essentials
@@ -52,4 +53,3 @@ leiz2.mylabserver.com
 [ubuntu]
 leiz3.mylabserver.com
 ```
-

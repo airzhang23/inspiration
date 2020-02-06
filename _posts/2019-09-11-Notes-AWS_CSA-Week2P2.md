@@ -1,7 +1,7 @@
 ---
 layout: single
 title: AWS CSA - Associate Level 学习笔记 - Week 2 - Part II
-img: 
+tags: [aws, cloud]
 ---
 
 ### Day 11
@@ -87,7 +87,7 @@ img:
 
   ### Day 12
 
-  - AMI: 
+  - AMI:
 
   AMIs (Amazon Machine Images) are used to launch instances in AWS. AWS supplies AMIs that cover most standard operating systems (Linux and Windows), and AMIs containing commercial software are available on the AWS Marketplace. Additionally, custom AMIs can be created by AWS customers and used directly or shared with other accounts.
 
@@ -139,7 +139,7 @@ img:
 
 - Instance Roles
 
-  Instance roles are IAM roles that can be associated with EC2 instances using instance profiles. 
+  Instance roles are IAM roles that can be associated with EC2 instances using instance profiles.
 
   ###### ![image-20190917114709347](../assets/img/image-20190917114709347.png)
   - Demo:
@@ -163,5 +163,3 @@ img:
     - Instnce Settings，attach/replace IAM role，选择刚才创建的role（**这里其实选择的是instance profile，只不过看起来是role**）
 
     - 此时，这个EC2会assume这个role，也就是可以使用`aws s3 ls`就可以看到bucket的信息了。
-
-      

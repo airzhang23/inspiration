@@ -1,9 +1,9 @@
 ---
 layout: single
-
 title: AWS CSA - Associate Level 学习笔记 - Week 1 - Part II
-
-img: image-20190828072916029.png
+header:
+  image: /assets/img/image-20190828072916029.png
+tags: [cloud, aws]
 ---
 
 ### Day 3
@@ -20,7 +20,7 @@ img: image-20190828072916029.png
 
 - AWS Pysical and Network layer
 
-  - Global Infrastructure: 
+  - Global Infrastructure:
 
     - Region: local grouping of infrastructure, 2各部分构成：region code，比如us-east-1。region name，例如 US East (N.Virginia)。有些服务例如S3是全球都可以使用，所以在S3里面看到的就不是具体的Region名称，而是用Global表示。Region之间通过高速的网络连接互相联通，这样服务就可以通过这个专有的高速网络交互。而不是使用Internet。所以从架构设计的角度，应该更多的使用这个网络。
     - AZ: 每个Region由多个AZ组成。例如图中的黄色点代表Region，蓝色的点代表围绕或构成这个Region的AZ。重点要明白多个AZ对于你的架构设计有何种的影响。AZ是在一个Region中地理上相互隔离的区域。AZ之间由冗余的，高速，低延迟网络相互连接。大部分的中小型企业会选择在一个Region中，通过多个AZ的方式达到高可用性和容灾，也可能利用其他的Region做DR。大型企业例如Netflix会选在跨Region的多个AZ设计他们的架构。
@@ -42,7 +42,7 @@ AWS的全球基础架构按照==分层的方式==进行的设计。
 
 - Well-Architected Framework
 
-  - A set of documents and tools: 
+  - A set of documents and tools:
 
     - [AWS Well-Architected Framework](https://d1.awsstatic.com/whitepapers/architecture/AWS_Well-Architected_Framework.pdf)
     - [AWS架构完善网站](https://aws.amazon.com/cn/architecture/well-architected/)

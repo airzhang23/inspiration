@@ -3,7 +3,8 @@ layout: single
 title: AWS CSA - Associate Level 学习笔记 - Week 2 - Part I
 tags: [aws, cloud, iam]
 header:
-  teaser: /assets/img/image-20190906095056777.png
+  image: /assets/img/image-20190906095056777.png
+tags: [aws, cloud]
 ---
 
 ### Day 8
@@ -42,7 +43,7 @@ header:
   - 当需要一个login 的account的时候，不能使用role。roles没有用户名和密码，没有access keys等。
   - roles可以用在很多地方，比如当有很多的用户的时候，可以让这些用户assume 角色，而不需要为每个用户创建一个用户
 
-- AWS Organizations: 
+- AWS Organizations:
 
   AWS Organizations is useful for businesses that need to manage multiple accounts. It provides the following features:
 

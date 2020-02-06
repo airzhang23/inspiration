@@ -1,11 +1,10 @@
 ---
 
 layout: single
-
 title: AWS CSA - Associate Level 学习笔记 - Week 1 - Part I
-
-img: AWS_CSA_001.png
-
+header:
+  image: /assets/img/AWS_CSA_001.png
+tags: [aws, cloud]
 ---
 
 ### Notes AWS Certified Solutions Architect - Associate Level (Prep Course) - Week 1
@@ -43,11 +42,11 @@ img: AWS_CSA_001.png
   - 账号创建成功，登陆后，进入
   - 可以通过my billing&cost management console设置使用量和账单管理，当费用超过free tier的价格时，可以发送alert到指定的email地址。
 
-  
+
 
   ![image-20190826142810052](../img/image-20190826142810052.png)
 
-  
+
 
 - 也可以通过**CloudWatch**设置alarm来监控，通过SNS服务，当估算的费用超过10美元时，发送警报
 
@@ -59,7 +58,7 @@ img: AWS_CSA_001.png
 
   这样设置成功后，每次登陆root账户，输入email和密码后，需要输入MFA Code才能login。
 
-  
+
 
   ![image-20190826143959169](../img/image-20190826143959169.png)
 
@@ -117,7 +116,7 @@ img: AWS_CSA_001.png
 
   ###### <img src="../img/image-20190827151617454.png" style="zoom:65%" />
 
-  
+
 
   - Horizontal Scaling: 需要application support。通过添加更多的机器，通过横向扩展的方式拓展资源池。更加复杂，同时也更加efficient。
 
@@ -133,7 +132,7 @@ img: AWS_CSA_001.png
 
   - **基本原则**：在实现每个层次的时候，使用独立的组件。从架构上，从不同的VM，不同的pool来分配，提供资源给不同的层次。这样可以独立的进行scaling。
 
-    
+
 
     ###### <img src="../img/image-20190827154324030.png" style="zoom:65%" />
 
