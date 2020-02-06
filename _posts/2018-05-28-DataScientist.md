@@ -1,7 +1,8 @@
 ---
 layout: single
 title: 前沿技术 - I
-img: data_s2.jpg
+imgheader:
+  image: assets/img/data_s2.jpg
 tags: [science]
 ---
 

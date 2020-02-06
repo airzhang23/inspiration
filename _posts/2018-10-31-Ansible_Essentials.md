@@ -1,7 +1,8 @@
 ---
 layout: single
 title: Ansible Essentials Workshop Learning
-img: ansible1.jpg
+header:
+  image: /assets/img/ansible1.jpg
 tags: [configuration management, ansible]
 ---
 
