@@ -2,7 +2,7 @@
 layout: single
 title: 从Steelstore, 到今天的AltaVault
 subtitle: Steelstore to AltaVault
-tags: [storage, NetApp]
+tags: [storage, netapp]
 ---
 
 2014年，NetApp用8000万美金从 Riverbed （河床？）手中收购了其SteelStore产品线，用来补充自身的云整体解决方案。
