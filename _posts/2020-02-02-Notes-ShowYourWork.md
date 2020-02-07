@@ -6,7 +6,7 @@ toc: true
 toc_label: "My Table of Contents"
 toc_icon: "cog"
 header:
-  teaser: /assets/img/showwork.jpg
+    teaser: /assets/img/showwork.jpg
 ---
 
 #showyourwork
