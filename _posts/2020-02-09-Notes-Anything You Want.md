@@ -41,5 +41,3 @@ We want to give to those who give.
 
 > It's another Tao of business: Set up your business like you don't need the money, and it'll likely come your way.
 
- [TestRecording1.wav](../assets/img/Recording/Anything You Want/TestRecording1.wav) 
-
