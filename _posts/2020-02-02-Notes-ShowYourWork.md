@@ -1,6 +1,7 @@
 ---
 layout: single
 title: Notes of 《Show Your Work! 10 Ways to Share your Creativity and Get Discovered》 by Austin Kleon
+comments: true
 tags: [share, idea, work smart]
 toc: true
 toc_label: "My Table of Contents"
