@@ -1,6 +1,6 @@
 ---
 layout: single
-title: Notes of <Anything You Want> by Derek Siver
+title: Notes of 《Anything You Want》 by Derek Siver
 ---
 
 
