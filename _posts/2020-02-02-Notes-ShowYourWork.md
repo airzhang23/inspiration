@@ -1,6 +1,6 @@
 ---
 layout: single
-title: Show Your Work! 10 Ways to Share your Creativity and Get Discovered
+title: Notes of 《Show Your Work! 10 Ways to Share your Creativity and Get Discovered》 by Austin Kleon
 tags: [share, idea, work smart]
 toc: true
 toc_label: "My Table of Contents"
@@ -179,9 +179,7 @@ Be an Ameteur - 做一个业余者
 - 幕后的素材，思路等我觉得很好，可以借鉴。
 
 
-
 **“BOOKS ARE MADE OUT OF BOOKS.” — CORMAC MCCARTHY**
-
 
 
 - Brian Eno, A Year With Swollen Appendices
