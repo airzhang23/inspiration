@@ -2,6 +2,7 @@
 layout: single
 title: Foosball Skills - Lei Zhang
 subtitle: 桌上足球攻防传球技巧汇总
+comments: true
 header:
   image: "/assets/img/foosball1.jpeg"
   teaser: "/assets/img/foosball1.jpeg"
