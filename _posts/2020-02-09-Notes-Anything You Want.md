@@ -17,6 +17,8 @@ Type: Article
 
 朴实无华的写作，分享的都是干货。
 
+<audio controls> <source src="../assest/img/TestRecording2.mp3" type="audio/mpeg"> </audio>
+
 Start Small，stay Small。
 
 拒绝投资。
