@@ -1,6 +1,7 @@
 ---
 layout: single
 title: Notes of 《Anything You Want》 by Derek Siver
+tags: [reading,books,notes]
 ---
 
 
@@ -17,15 +18,13 @@ Type: Article
 
 朴实无华的写作，分享的都是干货。
 
-<audio controls> <source src="../assets/img/TestRecording2.mp3" type="audio/mpeg"> </audio>
-
 Start Small，stay Small。
 
 拒绝投资。
 
 把重点放在客户上，你的客户会替你带来更多的生意。
 
-为真实的人解决真实的问题。
+[为真实的人解决真实的问题]()。
 
 商业计划只是计划，真正的计划来自客户。
 
