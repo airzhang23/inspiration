@@ -84,3 +84,76 @@ toc: true
 1. <u>决定你要成为的类型的人</u>
 2. <u>通过小小的胜利不断证明给自己看</u>
 
+
+
+人的大脑为什么要构建习惯？
+
+习惯就是被重复了多次的行为，最后自动化了。看起来大脑一直在让事情更有效率。这是大脑喜欢的模式。
+
+
+
+##### Feedback Loop
+
+对猫做的盒子实验为我们理解人的习惯的建立有很大的帮助。
+
+尝试， 失败， 学习，尝试不同的方法。随着不断的练习，不需要的行动被抛弃，有用的行动不断强化，形成习惯。
+
+无论何时当你碰到一个问题的时候，你的大脑（神经学）会尝试自动化的解决这个它。
+
+
+
+> “Habits are, simply,reliable solutions to recurring problems in our environment.” - Jason Hreha
+
+
+
+习惯的四个阶段： Cue（提示，暗示）, Craving （渴望）,  Response, Reward
+
+也是一个循环。Cue和Craving可以被归结为问题阶段，Response和Reward是Solution阶段。
+
+
+
+- 习惯的列表：把好习惯和不好的习惯打上”+“和”-“。
+
+- 习惯的堆栈（habit stacking），通过把好习惯嵌入到现有的习惯中，以便形成连锁反应
+
+
+
+Cue，make it obvious。越明显越好
+
+
+
+每一个习惯都是由一个Cue启动。人类更容易注意到明显的，比如视觉上发现的线索。
+
+从这里可以知道，把你要养成的好习惯配合相应的线索，弄得越明显越好。
+
+比如想培养多吃水果的习惯，就把水果摆放到多个显眼的地方。
+
+
+
+环境是改变习惯的一个重要因素。
+
+专门的场所做专门的事情。
+
+
+
+- 习惯和自我控制
+
+  用海洛因上瘾的越战老兵的例子，得知当环境发生改变的时候，很多不好的习惯也会随之消失。所以习惯需要一个支持他的环境成长。这里不仅仅是自我控制的因素。当然，如果考虑那些在越战中身处相同环境的，但是没有染上海洛因瘾的人的话，这些人是不是自控力比较强呢？
+
+
+
+
+
+How to Create a Good Habit:
+ 1 (Cue): Make it obvious
+ 2 (Craving): Make it attractive
+ 3 (Response): Make it easy
+ 4 (Reward): Make it satisfying
+
+ 
+
+How to Break a Bad Habit:
+ 1 (Cue): Make it invisible
+ 2 (Craving): Make it unattractive
+ 3 (Response): Make it difficult
+ 4 (Reward): Make it unsatisfying
