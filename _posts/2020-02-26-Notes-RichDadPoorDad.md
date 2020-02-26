@@ -12,7 +12,7 @@ tags: [reading, books, video]
 - 穷人买债务，富人买资产。
 - Cash flow： 现金流的分析看，穷和富之间的最大的差别在于富人在Income之外，还有Passive Income，不需要你花费过多的精力和时间就可以产生收入的资产。比如副业，股票，债券，房产等。
 
-<img src=""../assets/img/image-20200226181142634.png" style="zoom:50%" />
+<img src="../assets/img/image-20200226181142634.png" style="zoom:80%" />
 
 而富人的策略是这样的：不断地投资资产，并且最小化自己的负债。越来越富。
 
