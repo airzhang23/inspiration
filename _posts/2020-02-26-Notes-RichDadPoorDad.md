@@ -30,6 +30,8 @@ tags: [reading, books, video]
 
 如果答案是，我已经不为钱工作，而钱为我工作的话，那么就是很好的答案。
 
+![image-20200226200407822](../assets/img/image-20200226200407822.png)
+
 [Original Video](https://www.youtube.com/watch?v=TcNpoc-lF0M)
 
 【这些知识对我有什么用？】
