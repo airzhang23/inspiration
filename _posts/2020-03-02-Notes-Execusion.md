@@ -1,13 +1,11 @@
 ---
 layout: single
-title: 4 Discipline of Execution
+title: The 4 Discipline of Execution
 tags: [reading, book, video]
 toc: true
 ---
 
-### 4 个执行原则
-
-我想知道如何能够让一件事情，一个需要协作的项目能够不仅仅停留在讨论，计划上面，而是能够通过执行不断地推进，接近目标，达成目标。
+4 个执行原则，关于这本书我想知道如何能够让一件事情，一个需要协作的项目能够不仅仅停留在讨论，计划上面，而是能够通过执行不断地推进，接近目标，达成目标。
 
 这三位作者共同写了这本书。
 
