@@ -2,6 +2,7 @@
 layout: single
 title: 4 Discipline of Execution
 tags: [reading, book, video]
+toc: true
 ---
 
 ### 4 个执行原则
