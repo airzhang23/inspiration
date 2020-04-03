@@ -5,10 +5,9 @@ tags: [learning, books, reading]
 toc: true
 ---
 
-> There is an inner logic, and we're taught to stay far from it It is simple and elegant, but it's cruel and antithetic
->  And there's no effort to reveal it ...
->
-> -- Bad Religion, 'Inner Logic'
+> There is an inner logic, and we're taught to stay far from it It is simple and elegant, but it's cruel and antithetic. And there's no effort to reveal it ...
+>  
+>-- Bad Religion, 'Inner Logic'
 
 ### What is Smart Thinking?
 
@@ -115,4 +114,12 @@ It is not the answers to these questions that matter, but the very fact that we 
 In fact, the key skill that you need, to be an effective and thoughtful adult who is able to engage with and understand the world, is *not* an ability to find the answers: it is the ability to ***ask the right questions***.
 
 "Questions are fundamental to reasoning."
+
+### Why do we need to think smart?
+
+独立思考的能力。
+
+对事情，对人，有自己的看法。不容易被错误的，有偏差的信息，结论，答案蒙蔽。
+
+Basically, unless we are smart thinkers, we cannot understand the world as well as we should; we cannot solve problems effectively and consistently; we cannot be successful in the areas of our life that concern information.
 
