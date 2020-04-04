@@ -123,3 +123,25 @@ In fact, the key skill that you need, to be an effective and thoughtful adult wh
 
 Basically, unless we are smart thinkers, we cannot understand the world as well as we should; we cannot solve problems effectively and consistently; we cannot be successful in the areas of our life that concern information.
 
+- First of all, smart thinking ***helps you to study***
+- Second, smart thinking ***helps you at work***
+- Third, and perhaps most importantly, smart thinking ***makes you an active member of communities***.
+
+We should never assume that there can be only *one* right view; we should not, in turn, presume that *all* views are right.
+
+Smart thinking can help empower us in the face of knowledge, revealing its political and social purposes, its biases and consequences, its exclusions and errors. Thinking smart is about recognising the contexts of power and influence in which knowledge exists.
+
+### Understanding language
+
+"A basic look at language"
+
+##### Word:
+
+##### Statement:Made up of words. We put some words together
+
+##### Text: Made up of any group of statements
+
+##### Context:  Consists of all the elements outside a particular text that make it meaningful.
+
+**Assumptions** are those ideas or values that we 'take for granted' and do not question. To be smart thinkers we must recognise the assumptions that surround us (including our own) and that influence every argument and explanation. 
+
